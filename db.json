@@ -1,0 +1,53 @@
+{
+	"artists":[
+		{
+			"id":1,
+			"name": "KAT-TUN",
+      "cover": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25180137/7da2da4b4c4731a270087a53c1fab60e-500x588.jpg",
+      "desc": ""
+		},
+		{
+			"id":2,
+			"name": "Kanjani8",
+      "cover": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25180137/7da2da4b4c4731a270087a53c1fab60e-500x588.jpg",
+      "desc": ""
+		},
+		{
+			"id":3,
+			"name": "Snow Man",
+      "cover": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25180137/7da2da4b4c4731a270087a53c1fab60e-500x588.jpg",
+      "desc": ""
+		}
+	],
+	"releases":[
+		{
+      "id": 1,
+			"artist_id" 1,
+      "type": "album",
+      "date": "2006.03.22",
+      "name": "Best of KAT-TUN",
+      "member_count": "6人",
+      "cover": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25180137/7da2da4b4c4731a270087a53c1fab60e-500x588.jpg",
+      "desc": ""
+    },
+	],
+	"songs":[
+    {
+      "id": 1,
+      "release_id": 1,
+      "order": 1,
+      "title": "In Fact",
+      "artist": "",
+      "url": "https://dl.dropboxusercontent.com/s/iqu3188wqyna11n/In%20Fact.mp3"
+    }
+	],
+	"mvs":[
+		{
+      "id": 1,
+      "release_id": 2,
+      "title": "Real Face",
+      "artist": "",
+      "url": ""
+    }
+	]
+}
